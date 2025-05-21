@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1AQip0p7GukCJ4bbExg3tn-aqXO9XHY11
 """
 
-!pip install streamlit
+#!pip install streamlit
 
 # -*- coding: utf-8 -*-
 """Hybrid_Movie_Recommendation_Sysem.ipynb
@@ -19,7 +19,7 @@ Original file is located at
 """
 
 #!pip install streamlit
-! pip show scikit-learn
+#! pip show scikit-learn
 
 # -*- coding: utf-8 -*-
 import streamlit as st
