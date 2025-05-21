@@ -8,6 +8,7 @@ Original file is located at
 """
 
 #!pip install streamlit
+! pip show scikit-learn
 
 # -*- coding: utf-8 -*-
 import streamlit as st
